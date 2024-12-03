@@ -1,0 +1,146 @@
+body {
+    font-family: "Roboto", sans-serif;
+    color: #434455;
+    background-color: #FFFFFF;
+    font-size: 16px;
+    line-height: 1.5;
+    font-weight: 500;
+    letter-spacing: 0.02em
+}
+
+a {
+    text-decoration: none;
+}
+
+ul,
+ol {
+    list-style-type: none;
+}
+
+button {
+    cursor: pointer;
+}
+
+/* region Header */
+.header-page {}
+
+.nav-page {}
+
+.logo {
+    line-height: 1.17;
+    font-family: "Raleway", sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #4d5ae5;
+    opacity: 0.7;
+}
+
+.logo-style-hed {
+    font-family: "Raleway", sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.16667;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #2e2f42;
+}
+
+.nav-list {}
+
+.nav-item {}
+
+.nav-item-link {
+    color: #2e2f42;
+}
+
+.nav-item-link:hover,
+.nav-item-link:focus {
+    color: #404bbf
+}
+
+.address-page {
+    font-style: normal
+}
+
+.address-list {}
+
+.mailto-item {}
+
+.contacts-item-link {
+    color: #434455;
+}
+
+.contacts-item-link:hover,
+.contacts-item-link:focus {
+    color: #404bbf;
+}
+
+.effective {
+    background-color: #2e2f42;
+}
+
+.tittle {
+    font-size: 56px;
+    line-height: 1.07;
+    text-align: center;
+    letter-spacing: 0.02em;
+    color: #ffffff;
+}
+
+.button {
+    background-color: #4D5AE5;
+    font-weight: 500;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    color: #ffffff;
+}
+
+.button:hover,
+.button:focus {
+    background-color: #404BBF;
+}
+
+.possibilities {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+
+.caption {
+    font-size: 16px;
+}
+
+.team {
+    background-color: #F4F4FD;
+}
+
+.ourteam {
+    font-size: 36px;
+    line-height: 1.11;
+    text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    color: #2e2f42;
+}
+
+.foto {
+    background-color: #FFFFFF;
+}
+
+.description {
+    background-color: #2e2f42;
+}
+
+.increase {
+    color: #F4F4FD;
+}
+
+.logo-style {
+    color: #f4f4fd;
+}
+
+/*   */
