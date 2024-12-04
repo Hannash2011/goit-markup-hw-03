@@ -10,11 +10,24 @@ body {
 
 a {
     text-decoration: none;
+
 }
 
 ul,
 ol {
     list-style-type: none;
+    margin: 0;
+}
+
+h1,
+h2,
+h3,
+{
+margin: 0;
+}
+
+р {
+    margin: 0;
 }
 
 button {
@@ -23,6 +36,16 @@ button {
 
 /* region Header */
 .header-page {}
+
+.container {
+    width: 1440px;
+    height: 72px;
+    padding-top: 24px;
+    padding-bottom: 24px;
+    border: 0px;
+    display: inline-block;
+
+}
 
 .nav-page {}
 
