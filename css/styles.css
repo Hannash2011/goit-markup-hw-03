@@ -75,6 +75,11 @@ button {
     color: #2e2f42;
 }
 
+.header-logo {
+    padding: 24px;
+    margin-right: 76px;
+}
+
 .nav-list {
     display: flex;
     align-items: center;
@@ -99,8 +104,6 @@ button {
     display: flex;
     align-items: center;
 }
-
-.mailto-item {}
 
 .contacts-item-link {
     color: #434455;
