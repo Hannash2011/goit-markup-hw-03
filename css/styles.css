@@ -91,11 +91,14 @@ button {
     color: #404bbf
 }
 
-.address-page {
+.contacts-page {
     font-style: normal
 }
 
-.address-list {}
+.contacts-list {
+    display: flex;
+    align-items: center;
+}
 
 .mailto-item {}
 
