@@ -50,7 +50,9 @@ button {
 }
 
 
-.nav-page {}
+.header-nav {
+    display: flex;
+}
 
 .logo {
     line-height: 1.17;
@@ -73,7 +75,10 @@ button {
     color: #2e2f42;
 }
 
-.nav-list {}
+.nav-list {
+    display: flex;
+    align-items: center;
+}
 
 .nav-item {}
 
