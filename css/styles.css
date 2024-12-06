@@ -91,11 +91,11 @@ button {
     color: #404bbf
 }
 
-.contacts-page {
+.address-page {
     font-style: normal
 }
 
-.contacts-list {
+.address-list {
     display: flex;
     align-items: center;
 }
