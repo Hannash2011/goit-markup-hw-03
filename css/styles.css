@@ -104,7 +104,8 @@ button {
 }
 
 .address-page {
-    font-style: normal
+    font-style: normal;
+    margin-left: auto;
 }
 
 .address-list {
