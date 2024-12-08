@@ -170,14 +170,20 @@ button {
     line-height: 1.2;
     letter-spacing: 0.02em;
     color: #2e2f42;
+    text-align: center;
+    margin-bottom: 8px
 }
 
 .caption {
     font-size: 16px;
+    text-align: center;
 }
 
 .team {
     background-color: #F4F4FD;
+    padding: 120px 0;
+    padding-top: 120px;
+    padding-bottom: 120px;
 }
 
 .ourteam {
@@ -187,10 +193,28 @@ button {
     letter-spacing: 0.02em;
     text-transform: capitalize;
     color: #2e2f42;
+    margin-bottom: 72px;
+}
+
+.foto-list {
+    display: flex;
+    gap: 24px;
 }
 
 .foto {
     background-color: #FFFFFF;
+    margin-right: 24px;
+    width: calc((100% - 72px) / 4);
+    border-radius: 0px 0px 4px 4px;
+}
+
+.foto-last {
+    margin-right: 0;
+}
+
+.name {
+    padding-top: 32px;
+    padding-bottom: 32px;
 }
 
 .description {
