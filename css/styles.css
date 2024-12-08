@@ -275,4 +275,31 @@ button {
     margin-right: 0
 }
 
+.portfolio-list {
+    display: flex;
+    flex-wrap: wrap;
+    column-gap: 24px;
+    row-gap: 48px;
+}
+
+.portfolio-part {
+    margin-right: 24px;
+    width: calc((100% - 48px) / 3);
+
+}
+
+.portfolio-part-last {
+    margin-right: 0;
+}
+
+.possibilities-list {
+    padding: 32px 16px;
+    border: 1px solid #e7e9fc;
+    border-top: none;
+}
+
+.possibilities {
+    margin-bottom: 8px;
+}
+
 /*   */
