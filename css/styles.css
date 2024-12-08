@@ -110,7 +110,7 @@ button {
 }
 
 .address-list {
-    gap: 19px;
+    gap: 40px;
     display: flex;
     align-items: center;
 }
