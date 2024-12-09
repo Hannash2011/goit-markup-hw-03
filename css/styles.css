@@ -50,6 +50,11 @@ button {
 }
 
 
+
+.img {
+    display: block;
+}
+
 .header-nav {
     display: flex;
     align-items: center;
@@ -180,7 +185,6 @@ button {
 }
 
 .caption-list-point {
-    margin-right: 24px;
     width: calc((100% - 3 * 24px) / 4);
 }
 
