@@ -174,8 +174,6 @@ button {
     margin-bottom: 8px
 }
 
-
-
 .caption-list {
     display: flex;
     gap: 24px;
@@ -185,9 +183,6 @@ button {
     margin-right: 24px;
     flex-basis: calc((100% - 3 * 24px) / 4);
 }
-
-
-
 
 .caption {
     font-size: 16px;
