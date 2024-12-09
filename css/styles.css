@@ -269,12 +269,7 @@ button {
 
 .caption-list-point {
     margin-right: 24px;
-    width: calc((100% - 72px) / 4);
-}
-
-.caption-list-point-technologies {
-    margin-right: 0;
-    width: calc((100% - 72px) / 4);
+    flex-basis: calc((100% - 3 * 24px) / 4);
 }
 
 
