@@ -8,6 +8,11 @@ body {
     letter-spacing: 0.02em
 }
 
+
+img {
+    display: block;
+}
+
 a {
     text-decoration: none;
 }
@@ -49,11 +54,6 @@ button {
     align-items: center;
 }
 
-
-
-.img {
-    display: block;
-}
 
 .header-nav {
     display: flex;
