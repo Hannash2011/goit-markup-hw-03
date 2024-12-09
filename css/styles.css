@@ -272,6 +272,10 @@ button {
     flex-basis: calc((100% - 3 * 24px) / 4);
 }
 
+.caption-list-point-technologies {
+    margin-right: 0;
+    flex-basis: calc((100% - 3 * 24px) / 4);
+}
 
 .work {
     padding-top: 120px;
